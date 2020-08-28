@@ -9,6 +9,12 @@
 .bg-color-three-reasons {
     background-color: #fff;
 
+}.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
 }
 
 .bg-color-personal-info {
@@ -358,6 +364,12 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #e84610;
+}
+
+/*---- Map ----*/
+
+#map {
+    min-height: 360px;
 }
 
 /* ----------- Media Queries ---- */
